@@ -1,0 +1,8 @@
+{
+  "name": "scramble.js",
+  "version": "0.0.1",
+  "description": "Javascript Text Scrambler/Unscrambler effect.",
+  "main": "index.js",
+  "author": "Barend Du Toit",
+  "license": "MIT"
+}
