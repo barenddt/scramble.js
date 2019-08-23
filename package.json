@@ -1,8 +1,17 @@
 {
   "name": "scrambler.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Javascript Text Scrambler/Unscrambler effect.",
   "main": "index.js",
   "author": "Barend Du Toit",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barenddt/scrambler.js"
+  },
+  "keywords": [
+    "scramble",
+    "javascript",
+    "text scrambler"
+  ]
 }
