@@ -20,3 +20,11 @@
     ...
     <span id="text">Hello World!</span>
     ...
+
+## To-do
+
+- Looping
+- Duration
+- Cycle Strings
+- Play
+- Pause
